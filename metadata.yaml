@@ -1,0 +1,38 @@
+_repo: The-Seven-Darlings_43977
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Christy, Howard Chandler
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '4540'
+    url: http://www.gutenberg.org/2009/agents/4540
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Chandler_Christy
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morris, Gouverneur
+    birthdate: 1876
+    deathdate: 1953
+    gutenberg_agent_id: '1721'
+    url: http://www.gutenberg.org/2009/agents/1721
+description: ''
+gutenberg_issued: '2013-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Adirondack Mountains (N.Y.) -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Hotels -- Fiction'
+- !lcc 'PS'
+title: The Seven Darlings
+url: http://www.gutenberg.org/ebooks/43977
